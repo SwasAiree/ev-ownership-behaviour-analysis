@@ -1,9 +1,9 @@
 # ev-ownership-behaviour-analysis
 Analysis of Electric Vehicle (EV) ownership behaviour in Australia using Excel-based statistical techniques. Covers travel patterns, fuel savings, charging habits, and attitudes toward public EV infrastructure.
 
-# EV Ownership Behaviour Analysis – MIS771 Project
+# EV Ownership Behaviour Analysis – Project
 
-This project explores the behaviours and attitudes of electric vehicle (EV) owners in Australia, based on survey data. It was completed as part of the MIS771 – Descriptive Analytics and Visualisation unit at Deakin University in Trimester 2, 2024.
+This project explores the behaviours and attitudes of electric vehicle (EV) owners in Australia, based on survey data. It was completed as part of the – Descriptive Analytics and Visualisation unit at Deakin University in Trimester 2, 2024.
 
 ---
 
